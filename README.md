@@ -9,5 +9,7 @@ This site is about the amazing trading methods Yishera uses to be profitable
 
 Here is [Yishera's GitHubsite](https://yishera.github.io/Test/)
 
+
+
 ![picture of Yishera's Chart](tradingflyer.png) 
 
